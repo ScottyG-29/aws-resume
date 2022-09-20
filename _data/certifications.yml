@@ -1,8 +1,39 @@
 - certification:
   name: AWS Certified Solutions Architect Associate
-  register: Amazon with Alpine Testing Solutions
-  link: http://your-uri-badge.com
-  serial: XXDDEERRDDEE
-  logo: aws-csa-associate.png
-  issue-date: 17 Mai 2017
-  expiration-date: 18 Mai 2019
+  register: Amazon Web Services Training and Certification
+  link: https://www.credly.com/badges/3a01ea9c-9fbc-47cf-8d22-e3ad30449e72/public_url
+  serial: "0001"
+  logo: aws-saa.png
+  issue-date: 30 July 2022
+  expiration-date: 30 July 2025
+
+- certification:
+  name: Cisco Certified Network Associate
+  register: Cisco
+  link: https://www.credly.com/badges/d57bf073-a137-442f-9193-37bc9d19fa71/public_url
+  serial: "0003"
+  logo: ccna_600.png
+  issue-date: 06 Decmeber 2018
+  expiration-date: 01 May 2024
+  
+- certification:
+  name: CompTIA Advanced Security Practitioner (CASP+) ce Certification
+  register: CompTIA
+  link: https://www.credly.com/badges/945e77a9-49af-4cd8-83e6-de54fc8a970b/public_url
+  serial: "0002"
+  logo: casp.png
+  issue-date: 12 August 2022
+  expiration-date: 12 August 2025
+
+- certification:
+  name: CompTIA Security+ ce Certification
+  register: CompTIA
+  link: https://www.credly.com/badges/5167ee29-aea5-4fca-afc6-3bc11c2ae9bc/public_url
+  serial: "0004"
+  logo: secplus.png
+  issue-date: 02 November 2018
+  expiration-date: 12 August 2025
+
+ 
+
+  

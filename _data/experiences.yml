@@ -1,28 +1,30 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Network Support Tier 3
+  time: 2018 - Present
+  company: Marine Corps Cyberspace Operations Group, Quantico, VA
+  details: "
+•	Served as technical liaison and an escalation point from Tier 1 and 2 technicians to Tier 3. Supervised management of over 3,000 routers, switches, servers, and firewalls, to include Cisco, Juniper, Palo Alto, Red Hat Enterprise Linux (RHEL), and FortiGate device at several point of presence sites in the continental U.S. and in Southwest Asia.. Analyzed, designed, installed, and supported complex network solutions in on-premises, cloud, and hybrid environments. 
+
+•	Extensive knowledge of the Red Hat Enterprise Linux operating system for use with secure remote user and device management. Managed 6 enterprise servers and access for over 1200 admin and super-admin users. In addition to users, remote network devices and device configurations through the RHEL servers, utilizing Ansible and Puppet for configuration and change management. Built and tested RHEL Identity and Access Management Servers for integration with Active Directory and on-premises OCSP
+
+•	Provisioned over 100 devices with TACACS+ configurations in Cisco ISE. Managed TACACS+ accounts used by administrators to perform scheduled maintenance changes. Develop and maintain plans for Active Directory integration of administrative users via the ISE API gateway service.
+
+•	Managed virtual private networks used for secure site to site connections for over 150 branch offices. Configure and monitor VPN tunnels on the SRX to provide secure transport for branch sites to data center resources and the public Internet. Managed intra-zone firewall policies for VPN and dynamic routing protocols.
+
+•	Oversight of object and policy creation for all information assurance boundary firewalls. This required knowledge of traffic flow, TCP/IP, and end user/data center connectivity requirements. Configured and managed FortiAnalyzer log management and reporting platform, as well as the FortiManager management console.
+
+•	For WAN transport, I configured 5 hub sites for BGP connectivity across the WAN infrastructure. This also required redistribution of data center routes from OSPF into BGP for layer 3 connectivity between local and remote users, on-premises and cloud data centers, and remote branch sites.
+
+•	Lead the migration of 3 branch web applications and secure files systems to the organization AWS IaaS solution. Coordinated changes with business owners. Managed user and admin AWS accounts. Performed connection validation and continuous troubleshooting during outages. Configured AWS Direct Connect and internal VPN mesh to provide secure backup and transport of all critical business data from each branch office into the cloud with little to no interruptions to service.
+"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Technical Controller
+  time: 2011 - 2018
+  company: Fleet Marine Forces, Cherry Point, NC
+  details: "
+•	Established technical control sites, located, and corrected faults, and improved signal quality in communications networks. Tested over 30 communications circuits for mission capable connections to satellite equipment, radio transmissions equipment, and unified communications suites. Under my direct control were a wide variety of technologies to include copper and fiber signal multiplexers, ISDN suites, and many more legacy technologies.
+
+•	Configured and installed over 500 VoIP phones for the Fleet and Garrison Marine Forces aboard Cherry Point, NC, Yuma, AZ, and Camp Lejeune, NC. This task required me to thoroughly research and develop each type of IP phone suite and vendor to ensure proper interconnectivity. Among the any vendors were Polycom, Cisco, and Avaya. Cisco Call manager was used to provision most of the IP phones with telephony and ip addressing, allowing calls to be made between users in Cherry Point, NC and Camp Foster, Japan.
+
+•	Conducted Expedient provisioning and disassembly of field command and control centers. This task required me to create templated service models for multiple site deployments in the field. Local Area Network (LAN) technologies such as DHCP and DNS are just a couple examples of the most critical focuses during the setup of a given site. Physical layer connectivity between sites was accomplished with multimode tactical grade fiber runs for distances up to 1200 meters with redistribution and multiplexing for maximum capability of the signal medium.
+"

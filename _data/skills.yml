@@ -1,18 +1,39 @@
 - skill:
-  name: Python & Django
-  level: 98
+  name: Cisco Routers and Switches
+  level: 92
 - skill:
-  name: Javascript & jQuery
-  level: 98
+  name: Red Hat Enterprise Linux
+  level: 75
 - skill:
-  name: Angular
-  level: 98
-- skill:
-  name: HTML5 & CSS
-  level: 95
-- skill:
-  name: Ruby on Rails
+  name: FortiGate
   level: 85
 - skill:
-  name: Sketch & Photoshop
-  level: 60
+  name: Cisco ISE
+  level: 87
+- skill:
+  name: Palo Alto
+  level: 82
+- skill:
+  name: Microsoft Power Apps
+  level: 70
+- skill:
+  name: Microsoft Teams Administration
+  level: 78
+- skill:
+  name: Cloud Technologies
+  level: 62
+- skill:
+  name: Python
+  level: 55
+- skill:
+  name: Bash
+  level: 50
+- skill:
+  name: Border Gateway Protocol Protocol (BGP)
+  level: 73
+- skill:
+  name: Open Shortest Path First
+  level: 79
+- skill:
+  name: Agile Scrum Master
+  level: 80
